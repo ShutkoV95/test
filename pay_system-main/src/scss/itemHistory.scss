@@ -1,0 +1,21 @@
+.item_history {
+    background: #88928c;
+    padding: 10px;
+    margin: 20px 50px;
+    button {
+        width: 70px;
+        margin: 10px;
+        padding: 3px;
+        background: #fdfaec;
+        border: none;
+        color: #88928c;
+        margin: 0 0 0 30px;
+    }
+    p {
+        color: #f9f1e0;
+        border-bottom: #f9f1e0 1px solid;
+        span {
+            color: #452d26;
+        }
+    }
+}

@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    flex-direction: column;
+    background: #88928c;
+    margin: 30px auto;
+    width: 330px;
+    padding: 5px;
+    label {
+        margin: 10px 20px;
+        color: #f9f1e0;
+    }
+    button {
+        width: 70px;
+        margin: 20px;
+        padding: 3px;
+        background: #fdfaec;
+        border: none;
+        color: #88928c;
+    }
+}
